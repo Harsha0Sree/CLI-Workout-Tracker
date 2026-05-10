@@ -1,4 +1,4 @@
-# Forge CLI Workout Logger
+# CLI Workout Logger
 
 A modular Python CLI application that generates calisthenics workouts based on difficulty level and logs completed workout sessions interactively through the terminal.
 
@@ -79,13 +79,13 @@ forge/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/forge-cli-workout-logger.git
+git clone https://github.com/Harsha0Sree/CLI-Workout-Tracker.git
 ```
 
 ## Move into the project directory
 
 ```bash
-cd forge-cli-workout-logger
+cd CLI-Workout-Tracker
 ```
 
 ## Run the application
